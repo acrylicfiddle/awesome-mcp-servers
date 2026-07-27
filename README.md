@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://github.com/acrylicfiddle.png" alt="x402tools Logo" /> [x402tools](https://github.com/acrylicfiddle/x402-services) - 10 pay-per-call utility tools for AI agents (QR codes, website screenshots, DNS, image OCR, HTML/PDF parsing, email validation, PDF rendering, prompt-injection screening, sales-prospect enrichment) via x402 USDC micropayments on Base. No API keys. `npx @x402-tools/mcp` or remote `https://mcp.x402tools.xyz/mcp`.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
